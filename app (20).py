@@ -54,8 +54,8 @@ JEOPARDY_DATA = {
         },
         {
             "val": 1000,
-            "q": r"At a concession stand, $3$ hot dogs ($h$) and $2$ sodas ($s$) cost $\$13.00$, while $4$ hot dogs and $5$ sodas cost $\$22.00$. Find the cost of one hot dog and one soda.",
-            "a": r"Hot dog: $\$3.00$, Soda: $\$2.00$  \n  *($3h + 2s = 13$ and $4h + 5s = 22 \implies 7h = 21 \implies h = 3, s = 2$)*"
+            "q": r"At a concession stand, $3$ hot dogs ($h$) and $2$ sodas ($s$) cost $13.00, while $4$ hot dogs and $5$ sodas cost $22.00. Find the cost of one hot dog and one soda.",
+            "a": r"Hot dog: $3.00, Soda: $2.00  \n  *($3h + 2s = 13$ and $4h + 5s = 22 \implies 7h = 21 \implies h = 3, s = 2$)*"
         }
     ],
     "Did it happen?": [
